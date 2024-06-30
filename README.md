@@ -1,1 +1,3 @@
-# laughing-meme
+# Improved
+
+Short, and easy to use.
